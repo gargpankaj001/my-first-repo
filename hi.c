@@ -1,7 +1,7 @@
-nclude<stdio.h>
+#include<stdio.h>
 
 int main() {
-        printf("hello world! *******Pankaj\n");
+        printf("hello world!Pankaj\n");
         return 0;
 }
 ~    
